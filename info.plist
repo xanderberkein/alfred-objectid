@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.xanderberkein.workflows.objectid</string>
+	<string>com.xanderberkein.alfred-objectid</string>
 	<key>category</key>
 	<string>Productivity</string>
 	<key>connections</key>
@@ -104,7 +104,7 @@ osascript -l JavaScript index.js "$query" 2&gt;&amp;1</string>
 		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>An Alfred workflow to convert MongoDB ObjectIds to Timestamps</string>
 	<key>uidata</key>
 	<dict>
 		<key>707C1430-C51D-4352-9779-6579088A1C16</key>
@@ -125,7 +125,7 @@ osascript -l JavaScript index.js "$query" 2&gt;&amp;1</string>
 	<key>variablesdontexport</key>
 	<array/>
 	<key>version</key>
-	<string></string>
+	<string>1.0.0</string>
 	<key>webaddress</key>
 	<string>https://github.com/xanderberkein/alfred-objectid</string>
 </dict>
